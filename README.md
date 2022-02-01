@@ -3,7 +3,7 @@
 The aim of this project is to develop Pyhton Script which can visualize:
 1. The weather of 500+ cities across the world of varying distance from the equator.
 2. Plan future vacations based on this weather data anaysis.
-To accomplish this, a [simple Python library][https://pypi.org/project/citipy/] and the [OpenWeatherMap API] [https://openweathermap.org/api] are used to create a representative model of weather across world cities.
+To accomplish this, a [simple Python library][https://pypi.org/project/citipy/] and the [OpenWeatherMap API][https://openweathermap.org/api] are used to create a representative model of weather across world cities.
 
 # Part.I  WeatherPy
 
