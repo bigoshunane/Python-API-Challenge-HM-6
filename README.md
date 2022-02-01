@@ -3,9 +3,9 @@
 The aim of this project is to develop Pyhton Script which can visualize:
 1. The weather of 500+ cities across the world of varying distance from the equator.
 2. Plan future vacations based on this weather data anaysis.
-To accomplish this, a (simple Python library) and the (OpenWeatherMap API) are used to create a representative model of weather across world cities.
+To accomplish this, a [simple Python library] and the [OpenWeatherMap API] are used to create a representative model of weather across world cities.
 
-#Part.I  WeatherPy
+# Part.I  WeatherPy
 
 Final repoert summary covers the following points:
 
@@ -16,7 +16,7 @@ Final repoert summary covers the following points:
        . Cloudiness (%) vs. Latitude
        . Wind Speed (mph) vs. Latitude
        
-2. Run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern      Hemisphere (less than 0 degrees latitude):
+2. Run linear regression on each relationship, only this time separating them into Northern Hemisphere greater than or equal to 0 degrees latitude) and Southern      Hemisphere (less than 0 degrees latitude):
 
        . Northern Hemisphere - Temperature (F) vs. Latitude
        . Southern Hemisphere - Temperature (F) vs. Latitude
@@ -35,7 +35,7 @@ Final notebook includes:
      . Include a print log of each city as it's being processed with the city number and city name.
      . Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-#Part.II VacationPy
+# Part.II VacationPy
 
 Report includes:
 
@@ -47,7 +47,7 @@ Report includes:
     . Wind speed less than 10 mph.
     . Zero cloudiness.
     
-#Final observations summary
+# Final observations summary
 
 
     
