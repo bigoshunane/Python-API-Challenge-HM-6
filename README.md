@@ -118,7 +118,8 @@ Hotels on top of the humidity heatmap with each pin containing the Hotel Name, C
 ![mhm](https://user-images.githubusercontent.com/84547558/152066649-836a7649-37df-4cdf-83bc-ffc05595b810.png)
 
 
-Final observations summary
+
+# Final observations and comments:
 
 Generally the lower the latitude the closer it gets towards the equator therfore the higher the temperature: as a result, maximum temperatures for cities appeared to have direct relationship with latitude, but not equally across northern and southern hemispheres. The southern hemisphere tends to have higher humidity in general. The northern hemisphere tends to have decreasing maximum temperatures the further away from the equator. There were not strong correlations between latitudes and humidity, cloudiness, and wind speed based on the latitude of the cities, which makes a good sense.
 
