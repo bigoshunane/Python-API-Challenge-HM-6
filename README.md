@@ -61,7 +61,7 @@ Report includes:
     
 # Final observations summary
 
-Reoprts:
+Figure reports:
 
 Temperature (F) vs Latitude.
 
