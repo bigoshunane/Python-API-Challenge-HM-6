@@ -58,7 +58,9 @@ Report includes:
 2. Narrow down the DataFrame to find your ideal weather condition, by intruducing the following parameters:
 
     . A max temperature lower than 90 degrees but higher than 70.
+    
     . Wind speed less than 10 mph.
+    
     . Zero cloudiness.
     
 # Final observations summary
