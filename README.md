@@ -128,6 +128,6 @@ Generally the lower the latitude the closer it gets towards the equator therfore
 The above trends are shown in figures depicted above and its analysis on the trends they show are written as captions on top the figures drawn in juypter notebook found in WeatherPy folder in repository. 
 
 
-# Cpoy Right
+# Copy Right
 Raw data was provided by © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
