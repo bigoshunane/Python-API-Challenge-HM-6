@@ -121,8 +121,8 @@ Hotels on top of the humidity heatmap with each pin containing the Hotel Name, C
 
 # Final observations and comments:
 
-Generally the lower the latitude the closer it gets towards the equator therfore the higher the temperature: as a result, maximum temperatures for cities appeared to have direct relationship with latitude, but not equally across northern and southern hemispheres. The southern hemisphere tends to have higher humidity in general. The northern hemisphere tends to have decreasing maximum temperatures the further away from the equator. There were not strong correlations between latitudes and humidity, cloudiness, and wind speed based on the latitude of the cities, which makes a good sense.
-
+Generally the lower the latitude the closer it gets towards the equator therfore the higher the temperature: as a result, maximum temperatures for cities appeared to have direct relationship with latitude, but not equally across northern and southern hemispheres.Southern Hemisphere climates tend to be slightly milder than those at similar latitudes in the Northern Hemisphere. This is because the Southern Hemisphere has significantly more ocean and less land and water heats up and cools down more slowly than land. The southern hemisphere tends to have higher humidity in general. The northern hemisphere tends to have decreasing maximum temperatures as we go further away from the equator. There were not strong correlations between latitudes and humidity, cloudiness, and wind speed based on the latitude of the cities, which makes a good sense.
+The above trends are shown in figures depicted above and its analysis on the trends they show are written as captions on top the figures drawn in juypter notebook found in WeatherPy folder in repository. 
 
 
 
