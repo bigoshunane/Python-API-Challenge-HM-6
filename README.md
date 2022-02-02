@@ -9,10 +9,13 @@ Python script developed ,cities data and figures are in the repository under fil
 
 To run the code:
 
-Install citypy in your python environment (https://pypi.python.org/pypi/citipy)
-Save OpenWeatherMap API Key (https://openweathermap.org/) as 'weather_api_key'
-Google API Key (https://console.developers.google.com/getting-started) as 'g_key'
-Create API Keys and store it in the 'api_keys.py' file before running the Jupyter notebooks.
+    . Install citypy in your python environment (https://pypi.python.org/pypi/citipy)
+   
+    . Save OpenWeatherMap API Key (https://openweathermap.org/) as 'weather_api_key'
+    
+    . Google API Key (https://console.developers.google.com/getting-started) as 'g_key'
+    
+    . Create API Keys and store it in the 'api_keys.py' file before running the Jupyter notebooks.
 
 # Part.I  WeatherPy
 
