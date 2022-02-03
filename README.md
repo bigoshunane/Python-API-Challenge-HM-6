@@ -100,9 +100,9 @@ Wind Speed (mph) vs Latitude.
  
  ![hlshh](https://user-images.githubusercontent.com/84547558/152063527-a76b8fc7-a9ab-47fd-b6f3-2e51e0f0297d.png)
 
- Northern Hemisphere - Cloudiness (%) vs Latitude.
+ Northern Hemisphere - Cloudiness (%) vs Latitude. Correction (line_eq,(40,60) must be used, not negative number.
  
- ![cn](https://user-images.githubusercontent.com/84547558/152063656-e6f553a4-ee13-4bf6-a66b-7441786a408f.png)
+ ![ctn](https://user-images.githubusercontent.com/84547558/152444637-aa8dfc58-ff0a-4e17-bb5b-abaf0d6023dc.png)
  
  Southern Hemisphere - Cloudiness (%) vs Latitude.
  
