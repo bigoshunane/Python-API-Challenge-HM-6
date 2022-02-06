@@ -124,7 +124,7 @@ Wind Speed (mph) vs Latitude.
  
      Fig.8  The regression of humidity vs latitude in southern hemishphere shows weak negative correlation.
 
- Northern Hemisphere - Cloudiness (%) vs Latitude. Correction (line_eq,(40,60) must be used  in juypter notebook, not negative number.
+ Northern Hemisphere - Cloudiness (%) vs Latitude.
  
  ![ctn](https://user-images.githubusercontent.com/84547558/152444637-aa8dfc58-ff0a-4e17-bb5b-abaf0d6023dc.png)
  
