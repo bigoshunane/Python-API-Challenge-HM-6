@@ -63,7 +63,7 @@ Report includes:
     
     . Zero cloudiness.
     
-# Final observations summary
+# Final observable trends summary
 
 Figure reports:
 
@@ -71,50 +71,77 @@ Temperature (F) vs Latitude.
 
 ![tvl](https://user-images.githubusercontent.com/84547558/152062547-5444d87e-e639-4129-aa0c-23c050f539f6.png)
 
+    The scatter plot shows highest maximum temperature were recorded at lower latitude values, as latitude increases temperature drops
+    this is due to the fact   that the lower the latitude the closer we get towards the equator; hence, the higher the temperature and viceversa. 
     
  Humidity (%) vs Latitude.
  
 ![hvl](https://user-images.githubusercontent.com/84547558/152062807-af960fe0-6074-42ce-bf31-26347c1b5074.png)
+ 
+    The scatter plots shows low humididty at polar regions and as latitude gets higher humidity increases in the souther hemisphere.
 
 Cloudiness (%) vs Latitude.
 
 ![cvl](https://user-images.githubusercontent.com/84547558/152062943-621ebb4a-144c-4829-aea1-64e44c01a2aa.png)
 
+    The scatter plot shows evenly distributed data points across the latitude ; hence, there is no difference in cloudiness 
+    as the cities as farther or closest  to the equator.
+
 Wind Speed (mph) vs Latitude.
 
 ![wvl](https://user-images.githubusercontent.com/84547558/152063035-8b00ee76-400b-4861-b7cb-73efc11b1871.png)
 
+     The scatter plot of wind speed and latitude shows no observable pattern that can describe the relationship between them. 
+
  Northern Hemisphere - Temperature (F) vs Latitude.
  
  ![tvln](https://user-images.githubusercontent.com/84547558/152063154-86fff225-c514-417c-96d9-e305ef486d3c.png)
+ 
+     The linear regression model between temperature and latitude for north hemisphere cities show strong negative correlation 
+     where temperature is higher at lower latitude and starts dropping as we go away from the equator i.e. as latitude gets higher.
 
  Southern Hemisphere - Temperature (F) vs Latitude.
  
  ![tvlsh](https://user-images.githubusercontent.com/84547558/152063246-331018cc-d22c-40d5-a8d8-9d9607e82514.png)
+ 
+    In souther hemisphere the regression shows that there is moderate positive correlation between temperature and latitude 
+    but not as observed in nothern hemisphere.
 
  Northern Hemisphere - Humidity (%) vs Latitude.
  
 ![hlpn](https://user-images.githubusercontent.com/84547558/152063410-1d10f73e-83b1-4e17-8119-2c0f3ba48e5f.png)
 
+     The regression depicts that there exists moderate correlation between humidity and latitude in northern hemisphere.
+
  Southern Hemisphere - Humidity (%) vs Latitude.
  
  ![hlshh](https://user-images.githubusercontent.com/84547558/152063527-a76b8fc7-a9ab-47fd-b6f3-2e51e0f0297d.png)
+ 
+     The regression of humidity vs latitude in southern hemishphere shows weak negative correlation.
 
  Northern Hemisphere - Cloudiness (%) vs Latitude. Correction (line_eq,(40,60) must be used  in juypter notebook, not negative number.
  
  ![ctn](https://user-images.githubusercontent.com/84547558/152444637-aa8dfc58-ff0a-4e17-bb5b-abaf0d6023dc.png)
  
+     The regression shows that there is higher cloudiness in norther hemisphere at higher latitudes.
+ 
  Southern Hemisphere - Cloudiness (%) vs Latitude.
  
 ![shcc](https://user-images.githubusercontent.com/84547558/152063865-80dc4aaa-d21c-40d5-adbf-600ebdfd810d.png)
+
+     The regression between cloudiness and latitude in southern hemisphere shows that there exists not much correlation between the data points.
 
  Northern Hemisphere - Wind Speed (mph) vs Latitude.
  
  ![wns](https://user-images.githubusercontent.com/84547558/152064022-49ed22e4-aebd-42e1-9e91-13f19aec9ec7.png)
  
+     The regression plot of wind speed and latitude shows that there is weak positive relationship between wind speed and latitude.
+ 
  Southern Hemisphere - Wind Speed (mph) vs Latitude.
  
 ![hhhh](https://user-images.githubusercontent.com/84547558/152064104-73183bfb-fe48-4eb7-ab34-0078af000e24.png)
+
+    The regression plot of wind speed and latitude in souther hemisphere shows negative weak correlation between wind speed and latitude.
 
 Heat map that displays the humidity for every city generated.
 
@@ -126,9 +153,16 @@ Hotels on top of the humidity heatmap with each pin containing the Hotel Name, C
 
 
 
-# Final observations and comments:
+#  Final observable trends summary:
 
-Generally the lower the latitude the closer it gets towards the equator therfore the higher the temperature: as a result, maximum temperatures for cities appeared to have direct inverse relationship with latitude, but not equally across northern and southern hemispheres. Southern Hemisphere climates tend to be slightly milder than those at similar latitudes in the Northern Hemisphere. This is because the Southern Hemisphere has significantly more ocean and less land and water heats up and cools down more slowly than land. The southern hemisphere tends to have higher humidity in general while northern hemisphere tends to have decreasing maximum temperatures as we go further away from the equator. There were not strong correlations between latitudes and humidity, cloudiness, and wind speed based on the latitude of the cities, which makes a good sense. The above trends are shown in figures depicted above and its analysis on the trends they show are written as captions on top of the figures drawn in juypter notebook found in WeatherPy folder in repository. 
+Generally the lower the latitude the closer it gets towards the equator therfore the higher the temperature: as a result, maximum temperatures for cities appeared to have direct inverse relationship with latitude, but not equally across northern and southern hemispheres. Southern Hemisphere climates tend to be slightly milder than those at similar latitudes in the Northern Hemisphere. This is because the Southern Hemisphere has significantly more ocean and less land and water heats up and cools down more slowly than land. 
+
+The southern hemisphere tends to have higher humidity in general while northern hemisphere tends to have decreasing maximum temperatures as we go further away from the equator. There were not strong correlations between latitudes and humidity, cloudiness, and wind speed based on the latitude of the cities, which makes a good sense.
+
+From vacationPy analysis we can create exploratory-interactive geospatial, weather information, heat maps and visualization through Google API, and other similar API applications to play a remarkable role in exploiting the potential socio-economic values from available large datasets.
+
+In addition to vacation place other potential decisions can be also made applying different enquiries to the given dataset.
+
 
 
 # Copy Right
