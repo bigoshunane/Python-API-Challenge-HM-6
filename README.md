@@ -108,7 +108,7 @@ Wind Speed (mph) vs Latitude.
  
  ![tvlsh](https://user-images.githubusercontent.com/84547558/152063246-331018cc-d22c-40d5-a8d8-9d9607e82514.png)
  
-    Fig.6  In souther hemisphere the regression shows that there is moderate positive correlation between
+    Fig.6  In southern hemisphere the regression shows that there is moderate positive correlation between
            temperature and latitude but not as observed in nothern hemisphere.
 
  Northern Hemisphere - Humidity (%) vs Latitude.
