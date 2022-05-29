@@ -1,4 +1,4 @@
-# Python_API_Challenge_HM6
+# World Weather Analysis
 
 The aim of this project is to develop Python Script which can visualize:
 1. The weather of 500+ cities across the world of varying distance from the equator.
@@ -19,7 +19,7 @@ To run the code:
     
    . Create API Keys and store it in the 'api_keys.py' file before running the Jupyter notebooks.
 
-# Part.I  WeatherPy
+## Part.I  WeatherPy
 
 Final repoert summary covers the following points:
 
@@ -49,7 +49,7 @@ Final notebook includes:
      . Include a print log of each city as it's being processed with the city number and city name.
      . Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-# Part.II VacationPy
+## Part.II VacationPy
 
 Report includes:
 
@@ -63,7 +63,7 @@ Report includes:
     
     . Zero cloudiness.
     
-# Final observable trends summary
+## Final observable trends summary
 
 Figure reports:
 
@@ -161,7 +161,7 @@ Hotels on top of the humidity heatmap with each pin containing the Hotel Name, C
 
 
 
-#  Final observable trends summary:
+##  Final observable trends summary:
 
 Generally the lower the latitude the closer it gets towards the equator therfore the higher the temperature: as a result, maximum temperatures for cities appeared to have direct inverse relationship with latitude, but not equally across northern and southern hemispheres. Southern Hemisphere climates tend to be slightly milder than those at similar latitudes in the Northern Hemisphere. This is because the Southern Hemisphere has significantly more ocean and less land and water heats up and cools down more slowly than land. 
 
@@ -173,6 +173,7 @@ In addition to vacation place other potential decisions can be also made applyin
 
 
 
-# Copy Right
+## Copy Right
 Raw data was provided by © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
