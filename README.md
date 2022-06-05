@@ -150,7 +150,7 @@ Report includes:
 
 ![hmmm](https://user-images.githubusercontent.com/84547558/152066485-412653b8-0649-4f6f-bd0f-44cb87885d9d.png)
 
--  Hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+   -  Hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
 ![mhm](https://user-images.githubusercontent.com/84547558/152066649-836a7649-37df-4cdf-83bc-ffc05595b810.png)
 
