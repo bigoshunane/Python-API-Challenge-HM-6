@@ -11,13 +11,10 @@ Python script developed ,cities data and figures are in the repository under fil
 
 To run the code:
 
-   . Install citypy in your python environment (https://pypi.python.org/pypi/citipy)
-   
-   . Save OpenWeatherMap API Key (https://openweathermap.org/) as 'weather_api_key'
-    
-   . Google API Key (https://console.developers.google.com/getting-started) as 'g_key'
-    
-   . Create API Keys and store it in the 'api_keys.py' file before running the Jupyter notebooks.
+   -  Install citypy in your python environment (https://pypi.python.org/pypi/citipy)
+   -  Save OpenWeatherMap API Key (https://openweathermap.org/) as 'weather_api_key'
+   -  Google API Key (https://console.developers.google.com/getting-started) as 'g_key'
+   -  Create API Keys and store it in the 'api_keys.py' file before running the Jupyter notebooks.
 
 ## Part.I  WeatherPy
 
@@ -57,43 +54,41 @@ Report includes:
 
 2. Narrow down the DataFrame to find your ideal weather condition, by intruducing the following parameters:
 
-    . A max temperature lower than 90 degrees but higher than 70.
-    
-    . Wind speed less than 10 mph.
-    
-    . Zero cloudiness.
+   -  A max temperature lower than 90 degrees but higher than 70.
+   -  Wind speed less than 10 mph.
+   -  Zero cloudiness.
     
 ## Final observable trends summary
 
-Figure reports:
+-  Figure reports:
 
-Temperature (F) vs Latitude.
+    -  Temperature (F) vs Latitude.
 
 ![tvl](https://user-images.githubusercontent.com/84547558/152062547-5444d87e-e639-4129-aa0c-23c050f539f6.png)
 
-    FIG.1  The scatter plot shows highest maximum temperature were recorded at lower latitude values, 
+   -  FIG.1 The scatter plot shows highest maximum temperature were recorded at lower latitude values, 
            as latitude increases temperature drops this is due to the fact   that the lower the latitude 
            the closer we get towards the equator; hence, the higher the temperature and viceversa. 
     
- Humidity (%) vs Latitude.
+-  Humidity (%) vs Latitude.
  
 ![hvl](https://user-images.githubusercontent.com/84547558/152062807-af960fe0-6074-42ce-bf31-26347c1b5074.png)
  
-    Fig.2  The scatter plots shows low humididty at polar regions and as latitude gets higher 
+  -  Fig.2 The scatter plots shows low humididty at polar regions and as latitude gets higher 
            humidity increases in the souther hemisphere.
 
 Cloudiness (%) vs Latitude.
 
 ![cvl](https://user-images.githubusercontent.com/84547558/152062943-621ebb4a-144c-4829-aea1-64e44c01a2aa.png)
 
-    Fig.3  The scatter plot shows evenly distributed data points across the latitude ; hence, 
+  -  Fig.3 The scatter plot shows evenly distributed data points across the latitude ; hence, 
            there is no difference in cloudiness as the cities as farther or closest  to the equator.
 
 Wind Speed (mph) vs Latitude.
 
 ![wvl](https://user-images.githubusercontent.com/84547558/152063035-8b00ee76-400b-4861-b7cb-73efc11b1871.png)
 
-     Fig.4  The scatter plot of wind speed and latitude shows no observable pattern 
+   -  Fig.4 The scatter plot of wind speed and latitude shows no observable pattern 
             that can describe the relationship between them. 
 
  Northern Hemisphere - Temperature (F) vs Latitude.
